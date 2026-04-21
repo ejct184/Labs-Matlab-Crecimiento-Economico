@@ -1,4 +1,4 @@
-# FECHA DE ENTREGA TRABAJO FINAL: LUNES 4 MAYO
+# FECHA DE ENTREGA TRABAJO FINAL: LUNES 4 MAYO [enviar a: uriel.luna@itam.mx cc al profesor]
 
 # Labs-Matlab-Crecimiento-Economico
 Labs de Matlab para la materia de Crecimiento Economico en el ITAM
