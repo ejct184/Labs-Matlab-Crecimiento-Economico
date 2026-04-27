@@ -1,4 +1,6 @@
-# FECHA DE ENTREGA TRABAJO FINAL: LUNES 4 MAYO [enviar a: uriel.luna@itam.mx cc al profesor]
+# FECHA DE ENTREGA TRABAJO FINAL: LUNES 4 MAYO 
+*Enviar su´trabajo y su paquete de replicación (códigos más datos) a: uriel.luna@itam.mx cc al profesor*
+*Ver el excel con los datos actualizado si hay dudas sobre la serie L/N para el caso de Chile*
 
 # Labs-Matlab-Crecimiento-Economico
 Labs de Matlab para la materia de Crecimiento Economico en el ITAM
