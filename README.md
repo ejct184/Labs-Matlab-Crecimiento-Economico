@@ -2,6 +2,7 @@
 **Fecha de entrega: 27 de noviembre**
 
 - Enviar su trabajo y su paquete de replicación (códigos más datos) a: *uriel.luna@itam.mx* (cc al profesor)
+- Puede ser individul o en equipos de máximo 4 personas.
 
 # Labs-Matlab-Crecimiento-Economico
 Labs de Matlab para la materia de Crecimiento Economico en el ITAM
