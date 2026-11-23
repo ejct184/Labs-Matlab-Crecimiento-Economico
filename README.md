@@ -2,7 +2,7 @@
 **Fecha de entrega: 27 de noviembre**
 - **Dado que el correo del itam no esta funcionando, mi correo de respaldo: uri184@hotmail.com**
 
-- Enviar su trabajo y su paquete de replicación (códigos más datos) a: *uriel.luna@itam.mx* (cc al profesor)
+- Enviar su trabajo y su paquete de replicación (códigos más datos) a: *uri184@hotmail.com* (cc al profesor)
 - Puede ser individual o en equipos de máximo 4 personas.
 
 # Labs-Matlab-Crecimiento-Economico
